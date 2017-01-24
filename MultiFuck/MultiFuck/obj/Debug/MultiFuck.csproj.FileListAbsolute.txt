@@ -1,0 +1,5 @@
+K:\school\klas6\OO\MultiFuck\MultiFuck\bin\Debug\MultiFuck.dll
+K:\school\klas6\OO\MultiFuck\MultiFuck\bin\Debug\MultiFuck.pdb
+K:\school\klas6\OO\MultiFuck\MultiFuck\obj\Debug\MultiFuck.csprojResolveAssemblyReference.cache
+K:\school\klas6\OO\MultiFuck\MultiFuck\obj\Debug\MultiFuck.dll
+K:\school\klas6\OO\MultiFuck\MultiFuck\obj\Debug\MultiFuck.pdb

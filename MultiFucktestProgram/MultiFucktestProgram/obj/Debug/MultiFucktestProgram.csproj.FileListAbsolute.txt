@@ -1,0 +1,8 @@
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\bin\Debug\MultiFucktestProgram.exe.config
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\bin\Debug\MultiFucktestProgram.exe
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\bin\Debug\MultiFucktestProgram.pdb
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\bin\Debug\MultiFuck.dll
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\obj\Debug\MultiFucktestProgram.csprojResolveAssemblyReference.cache
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\obj\Debug\MultiFucktestProgram.exe
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\obj\Debug\MultiFucktestProgram.pdb
+K:\school\klas6\OO\MultiFucktestProgram\MultiFucktestProgram\bin\Debug\MultiFuck.pdb
